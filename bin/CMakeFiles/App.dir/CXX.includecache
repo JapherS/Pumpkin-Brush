@@ -1,0 +1,222 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/App.hpp
+SFML/Graphics.hpp
+-
+SFML/Graphics/Image.hpp
+-
+SFML/Graphics/Texture.hpp
+-
+SFML/Graphics/Sprite.hpp
+-
+SFML/Network.hpp
+-
+queue
+-
+stack
+-
+Command.hpp
+../include/Command.hpp
+BrushFactory.hpp
+../include/BrushFactory.hpp
+Gui.hpp
+../include/Gui.hpp
+
+../include/Brush.hpp
+GeneralBrush.hpp
+../include/GeneralBrush.hpp
+vector
+-
+
+../include/BrushFactory.hpp
+GeneralBrush.hpp
+../include/GeneralBrush.hpp
+
+../include/Clear.hpp
+Command.hpp
+../include/Command.hpp
+App.hpp
+../include/App.hpp
+
+../include/Command.hpp
+string
+-
+
+../include/Draw.hpp
+string
+-
+vector
+-
+Command.hpp
+../include/Command.hpp
+GeneralBrush.hpp
+../include/GeneralBrush.hpp
+
+../include/Erase.hpp
+SFML/Graphics/Color.hpp
+-
+Command.hpp
+../include/Command.hpp
+App.hpp
+../include/App.hpp
+
+../include/GeneralBrush.hpp
+SFML/Graphics/Color.hpp
+-
+vector
+-
+
+../include/Gui.hpp
+SFML/Graphics.hpp
+-
+SFML/Network.hpp
+-
+App.hpp
+../include/App.hpp
+
+../include/Pen.hpp
+GeneralBrush.hpp
+../include/GeneralBrush.hpp
+vector
+-
+
+../include/nuklear.h
+sal.h
+-
+stdint.h
+-
+stdlib.h
+-
+stdio.h
+-
+stdarg.h
+-
+assert.h
+-
+
+../include/nuklear_sfml_gl2.h
+SFML/Window.hpp
+-
+cstring
+-
+
+/Users/japhersu/Desktop/CS5500 GitHub/CS5500-Foundations-of-Software-Engineering/Pumpkin Brush/FinalProject/src/App.cpp
+SFML/Graphics.hpp
+-
+SFML/Graphics/Image.hpp
+-
+SFML/Graphics/Texture.hpp
+-
+SFML/Graphics/Sprite.hpp
+-
+cassert
+-
+App.hpp
+/Users/japhersu/Desktop/CS5500 GitHub/CS5500-Foundations-of-Software-Engineering/Pumpkin Brush/FinalProject/src/App.hpp
+Clear.hpp
+/Users/japhersu/Desktop/CS5500 GitHub/CS5500-Foundations-of-Software-Engineering/Pumpkin Brush/FinalProject/src/Clear.hpp
+iostream
+-
+
+/Users/japhersu/Desktop/CS5500 GitHub/CS5500-Foundations-of-Software-Engineering/Pumpkin Brush/FinalProject/src/Brush.cpp
+Brush.hpp
+/Users/japhersu/Desktop/CS5500 GitHub/CS5500-Foundations-of-Software-Engineering/Pumpkin Brush/FinalProject/src/Brush.hpp
+
+/Users/japhersu/Desktop/CS5500 GitHub/CS5500-Foundations-of-Software-Engineering/Pumpkin Brush/FinalProject/src/BrushFactory.cpp
+BrushFactory.hpp
+/Users/japhersu/Desktop/CS5500 GitHub/CS5500-Foundations-of-Software-Engineering/Pumpkin Brush/FinalProject/src/BrushFactory.hpp
+Brush.hpp
+/Users/japhersu/Desktop/CS5500 GitHub/CS5500-Foundations-of-Software-Engineering/Pumpkin Brush/FinalProject/src/Brush.hpp
+Pen.hpp
+/Users/japhersu/Desktop/CS5500 GitHub/CS5500-Foundations-of-Software-Engineering/Pumpkin Brush/FinalProject/src/Pen.hpp
+
+/Users/japhersu/Desktop/CS5500 GitHub/CS5500-Foundations-of-Software-Engineering/Pumpkin Brush/FinalProject/src/Clear.cpp
+Clear.hpp
+/Users/japhersu/Desktop/CS5500 GitHub/CS5500-Foundations-of-Software-Engineering/Pumpkin Brush/FinalProject/src/Clear.hpp
+
+/Users/japhersu/Desktop/CS5500 GitHub/CS5500-Foundations-of-Software-Engineering/Pumpkin Brush/FinalProject/src/Command.cpp
+string
+-
+Command.hpp
+/Users/japhersu/Desktop/CS5500 GitHub/CS5500-Foundations-of-Software-Engineering/Pumpkin Brush/FinalProject/src/Command.hpp
+
+/Users/japhersu/Desktop/CS5500 GitHub/CS5500-Foundations-of-Software-Engineering/Pumpkin Brush/FinalProject/src/Draw.cpp
+SFML/Graphics/Color.hpp
+-
+App.hpp
+/Users/japhersu/Desktop/CS5500 GitHub/CS5500-Foundations-of-Software-Engineering/Pumpkin Brush/FinalProject/src/App.hpp
+Draw.hpp
+/Users/japhersu/Desktop/CS5500 GitHub/CS5500-Foundations-of-Software-Engineering/Pumpkin Brush/FinalProject/src/Draw.hpp
+iostream
+-
+vector
+-
+
+/Users/japhersu/Desktop/CS5500 GitHub/CS5500-Foundations-of-Software-Engineering/Pumpkin Brush/FinalProject/src/Erase.cpp
+Erase.hpp
+/Users/japhersu/Desktop/CS5500 GitHub/CS5500-Foundations-of-Software-Engineering/Pumpkin Brush/FinalProject/src/Erase.hpp
+App.hpp
+/Users/japhersu/Desktop/CS5500 GitHub/CS5500-Foundations-of-Software-Engineering/Pumpkin Brush/FinalProject/src/App.hpp
+
+/Users/japhersu/Desktop/CS5500 GitHub/CS5500-Foundations-of-Software-Engineering/Pumpkin Brush/FinalProject/src/Gui.cpp
+Gui.hpp
+/Users/japhersu/Desktop/CS5500 GitHub/CS5500-Foundations-of-Software-Engineering/Pumpkin Brush/FinalProject/src/Gui.hpp
+SFML/OpenGL.hpp
+-
+nuklear.h
+/Users/japhersu/Desktop/CS5500 GitHub/CS5500-Foundations-of-Software-Engineering/Pumpkin Brush/FinalProject/src/nuklear.h
+nuklear_sfml_gl2.h
+/Users/japhersu/Desktop/CS5500 GitHub/CS5500-Foundations-of-Software-Engineering/Pumpkin Brush/FinalProject/src/nuklear_sfml_gl2.h
+iostream
+/Users/japhersu/Desktop/CS5500 GitHub/CS5500-Foundations-of-Software-Engineering/Pumpkin Brush/FinalProject/src/iostream
+Clear.hpp
+/Users/japhersu/Desktop/CS5500 GitHub/CS5500-Foundations-of-Software-Engineering/Pumpkin Brush/FinalProject/src/Clear.hpp
+
+/Users/japhersu/Desktop/CS5500 GitHub/CS5500-Foundations-of-Software-Engineering/Pumpkin Brush/FinalProject/src/Pen.cpp
+Pen.hpp
+/Users/japhersu/Desktop/CS5500 GitHub/CS5500-Foundations-of-Software-Engineering/Pumpkin Brush/FinalProject/src/Pen.hpp
+
+/Users/japhersu/Desktop/CS5500 GitHub/CS5500-Foundations-of-Software-Engineering/Pumpkin Brush/FinalProject/src/main.cpp
+SFML/Graphics.hpp
+-
+SFML/Graphics/Image.hpp
+-
+SFML/Graphics/Texture.hpp
+-
+SFML/Graphics/Sprite.hpp
+-
+SFML/Network.hpp
+-
+iostream
+-
+ostream
+-
+string
+-
+string.h
+-
+time.h
+/Users/japhersu/Desktop/CS5500 GitHub/CS5500-Foundations-of-Software-Engineering/Pumpkin Brush/FinalProject/src/time.h
+App.hpp
+/Users/japhersu/Desktop/CS5500 GitHub/CS5500-Foundations-of-Software-Engineering/Pumpkin Brush/FinalProject/src/App.hpp
+Command.hpp
+/Users/japhersu/Desktop/CS5500 GitHub/CS5500-Foundations-of-Software-Engineering/Pumpkin Brush/FinalProject/src/Command.hpp
+Draw.hpp
+/Users/japhersu/Desktop/CS5500 GitHub/CS5500-Foundations-of-Software-Engineering/Pumpkin Brush/FinalProject/src/Draw.hpp
+Erase.hpp
+/Users/japhersu/Desktop/CS5500 GitHub/CS5500-Foundations-of-Software-Engineering/Pumpkin Brush/FinalProject/src/Erase.hpp
+Brush.hpp
+/Users/japhersu/Desktop/CS5500 GitHub/CS5500-Foundations-of-Software-Engineering/Pumpkin Brush/FinalProject/src/Brush.hpp
+Pen.hpp
+/Users/japhersu/Desktop/CS5500 GitHub/CS5500-Foundations-of-Software-Engineering/Pumpkin Brush/FinalProject/src/Pen.hpp
+Clear.hpp
+/Users/japhersu/Desktop/CS5500 GitHub/CS5500-Foundations-of-Software-Engineering/Pumpkin Brush/FinalProject/src/Clear.hpp
+SFML/OpenGL.hpp
+-
+
