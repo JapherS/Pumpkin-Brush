@@ -20,4 +20,7 @@ Pumpkin Brush is a desktop painting application developed to enable multiple use
 Pumpkin Brush is written in C++ and SFML. 
 
 ## Video Demo
-[![Overview](https://img.youtube.com/vi/yo-HoP5Uitw&t=1s/0.jpg)](https://www.youtube.com/watch?v=yo-HoP5Uitw&t=1s)
+[![Overview](https://img.youtube.com/vi/yo-HoP5Uitw/0.jpg)](https://www.youtube.com/watch?v=yo-HoP5Uitw)
+
+
+
