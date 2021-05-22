@@ -1,3 +1,5 @@
+![](https://github.com/JapherS/Pumpkin-Brush/Screenshot.png)
+
 # Pumpkin Brush - A Real-Time Collaborative Painting Application
 Team members: Japher, Hao, Andrew, and Jugal.
 ***
